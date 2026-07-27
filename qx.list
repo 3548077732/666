@@ -1,9 +1,9 @@
 # Title: Quantumult X Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-07-26 13:10:43（北京时间）
-# Quantumult X规则数量: 17186
-# ! Total count: 17186
+# Last Updated: 2026-07-27 02:31:41（北京时间）
+# Quantumult X规则数量: 17187
+# ! Total count: 17187
 HOST-SUFFIX,-normal-lq.zijieapi.com,REJECT
 HOST-SUFFIX,0.r.msn.com,REJECT
 HOST-SUFFIX,000123456789.online,REJECT
@@ -1757,6 +1757,7 @@ HOST-SUFFIX,ads-video-qc.xhscdn.com,REJECT
 HOST-SUFFIX,ads.95516.com,REJECT
 HOST-SUFFIX,ads.adadapted.com,REJECT
 HOST-SUFFIX,ads.adfox.ru,REJECT
+HOST-SUFFIX,ads.adfunlink.com,REJECT
 HOST-SUFFIX,ads.api.fakeloc.cc,REJECT
 HOST-SUFFIX,ads.api.lerist.cc,REJECT
 HOST-SUFFIX,ads.aplus.pptv.com,REJECT
