@@ -3485,6 +3485,9 @@
       "domain_suffix": "ad-android.51wnl.com"
     },
     {
+      "domain_suffix": "ad-api.4pyun.com"
+    },
+    {
       "domain_suffix": "ad-api.adn-plus.com.cn"
     },
     {
@@ -3534,6 +3537,9 @@
     },
     {
       "domain_suffix": "ad-drs.52qumao.com"
+    },
+    {
+      "domain_suffix": "ad-files.4pyun.com"
     },
     {
       "domain_suffix": "ad-ga.nocode.com"
@@ -4023,6 +4029,9 @@
     },
     {
       "domain_suffix": "ad.mangareader.net"
+    },
+    {
+      "domain_suffix": "ad.maoyan.com"
     },
     {
       "domain_suffix": "ad.mazc.org"
@@ -4964,6 +4973,9 @@
       "domain_suffix": "admarket.mobi"
     },
     {
+      "domain_suffix": "admarketing.yahoo.net"
+    },
+    {
       "domain_suffix": "admaster.com.cn"
     },
     {
@@ -5304,6 +5316,9 @@
     },
     {
       "domain_suffix": "ads.exosrv.com"
+    },
+    {
+      "domain_suffix": "ads.finance.yahoo.com"
     },
     {
       "domain_suffix": "ads.flurry.com"
@@ -5900,6 +5915,9 @@
       "domain_suffix": "adstats.tencentmusic.com"
     },
     {
+      "domain_suffix": "adstextview.qq.com"
+    },
+    {
       "domain_suffix": "adstil.indiatimes.com"
     },
     {
@@ -6204,6 +6222,9 @@
     },
     {
       "domain_suffix": "adx-os.anythinktech.com"
+    },
+    {
+      "domain_suffix": "adx-os.bridgeoos.com"
     },
     {
       "domain_suffix": "adx-saas.advlion.com"
@@ -6885,6 +6906,9 @@
     },
     {
       "domain_suffix": "allnews.uodoo.com"
+    },
+    {
+      "domain_suffix": "alltbcsp2p.baidu.com"
     },
     {
       "domain_suffix": "allxin.com"
@@ -13184,6 +13208,9 @@
       "domain_suffix": "commdata6.v.qq.com"
     },
     {
+      "domain_suffix": "commercial.shouji.360.cn"
+    },
+    {
       "domain_suffix": "commission-junction.com"
     },
     {
@@ -18158,6 +18185,9 @@
       "domain_suffix": "events3alt.adcolony.com"
     },
     {
+      "domain_suffix": "eventv1.leidong.rayenergytech.com"
+    },
+    {
       "domain_suffix": "evidhjksdtgyxrh.xyz"
     },
     {
@@ -22406,10 +22436,16 @@
       "domain_suffix": "hunpingou.com"
     },
     {
+      "domain_suffix": "huodong.ios.shouji.360.cn"
+    },
+    {
       "domain_suffix": "huodong.pl.youku.com"
     },
     {
       "domain_suffix": "huodong.vip.youku.com"
+    },
+    {
+      "domain_suffix": "huodong.weibo.cn"
     },
     {
       "domain_suffix": "huoju.asia"
@@ -22796,6 +22832,9 @@
       "domain_suffix": "iadc.qwapi.com"
     },
     {
+      "domain_suffix": "iadcontent.apple.com"
+    },
+    {
       "domain_suffix": "iadctest.qwapi.com"
     },
     {
@@ -22806,6 +22845,9 @@
     },
     {
       "domain_suffix": "iadmatvideo.nosdn.127.net"
+    },
+    {
+      "domain_suffix": "iadmoo.apple.com"
     },
     {
       "domain_suffix": "iadmusicmat.music.126.net"
@@ -23906,6 +23948,9 @@
       "domain_suffix": "init.startappexchange.com"
     },
     {
+      "domain_suffix": "init.supersonicads.com"
+    },
+    {
       "domain_suffix": "inkuae.com"
     },
     {
@@ -23928,6 +23973,9 @@
     },
     {
       "domain_suffix": "inner-active.mobi"
+    },
+    {
+      "domain_suffix": "inner-hw.huazirc.com"
     },
     {
       "domain_suffix": "innity.com"
@@ -26984,6 +27032,9 @@
       "domain_suffix": "kwo-0115.cc"
     },
     {
+      "domain_suffix": "kwpush.kuwo.cn"
+    },
+    {
       "domain_suffix": "kwurl.ucweb.com"
     },
     {
@@ -28355,6 +28406,9 @@
       "domain_suffix": "logrcv.yunxish.com"
     },
     {
+      "domain_suffix": "logs-bigdata.yeehaw.com.cn"
+    },
+    {
       "domain_suffix": "logs.amap.com"
     },
     {
@@ -28395,6 +28449,9 @@
     },
     {
       "domain_suffix": "logupdate.avlyun.sec.miui.com"
+    },
+    {
+      "domain_suffix": "logv2.ireader.com"
     },
     {
       "domain_suffix": "logwebs.kugou.com"
@@ -35636,6 +35693,9 @@
       "domain_suffix": "prokyrn.icu"
     },
     {
+      "domain_suffix": "prom-sdkv2.jysper.net"
+    },
+    {
       "domain_suffix": "prom.b.qq.com"
     },
     {
@@ -37395,6 +37455,9 @@
     },
     {
       "domain_suffix": "report.csslcloud.net"
+    },
+    {
+      "domain_suffix": "report.dxunion.cn"
     },
     {
       "domain_suffix": "report.imtt.qq.com"
@@ -43271,6 +43334,9 @@
       "domain_suffix": "trackcmp.net"
     },
     {
+      "domain_suffix": "tracker-prd.aldi.com.cn"
+    },
+    {
       "domain_suffix": "tracker-sns.iqiyi.com"
     },
     {
@@ -44493,6 +44559,9 @@
     },
     {
       "domain_suffix": "union-mlog.bigda.com"
+    },
+    {
+      "domain_suffix": "union-record.oss-cn-zhangjiakou.aliyuncs.com"
     },
     {
       "domain_suffix": "union-wifi.com"
